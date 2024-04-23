@@ -5,3 +5,6 @@ Hello, this is a test.
 
 c1
 c2
+
+test with pairing
+
